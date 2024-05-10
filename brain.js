@@ -110,8 +110,3 @@ cityResult.addEventListener("keyup", e => e.key === "Enter" && getCityCoordinate
 
 locationButton.addEventListener("click", getUserCoordinates);
 searchButton.addEventListener("click", getCityCoordinates);
-
-
-
-
-
